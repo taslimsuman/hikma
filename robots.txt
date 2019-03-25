@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+Disallow: /trendcart/
+Disallow: /templates/
+Disallow: /img/
+
+
+Sitemap: http://hikmamedical.com/sitemap.xml
+Sitemap: http://hikmamedical.com/sitemap_ar.xml
